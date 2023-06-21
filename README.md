@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiondreR
+- 👋 Hi, I’m @Jreamer
 - 👀 I’m interested in making games.
 - 🌱 I’m currently learning python, c#, c++
 - 💞️ I’m looking to collaborate on anything!
