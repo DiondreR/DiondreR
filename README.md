@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiondreR
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in making games.
+- 🌱 I’m currently learning python, c#, c++
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
 
